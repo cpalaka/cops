@@ -1,3 +1,5 @@
+An implementation of the Cornell Off-Lattice Particle-based Simulator (COPS)
+
 Points to remember when editing .txt files:
 
 particlenos.txt
